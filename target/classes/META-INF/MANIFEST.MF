@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: StartupHub
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mugha
+Implementation-Vendor-Id: com.startup
+Build-Jdk: 1.8.0_301
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/StartupHub
+Created-By: Maven Integration for Eclipse
+
